@@ -15,4 +15,6 @@ My Personal Library for various conveniences in PHP.
   - `MySQLConnect()` - Connect to MySQL based on $dbServer, $dbUsername, $dbPassword, $dbDatabse variables that must be already set. Returns the connection variable
  * Recommended: Set the output of this function to a variable $con if you plan on using the above query function i.e. $con = MySQLConnect();
   - `toFloat($string)` - Convert any string into a float, stripping out all extra characters
+
+[Github Pages Version](http://gknova61.github.io/PHPUtils)
   
